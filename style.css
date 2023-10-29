@@ -113,6 +113,11 @@ body {
   background-color: hsl(158, 36%, 22%);
 }
 
+.card-btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.8rem rgba(70, 150, 121, 0.5);
+}
+
 .card-btn span {
   font-weight: 700;
 }
