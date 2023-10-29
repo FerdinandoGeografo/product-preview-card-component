@@ -149,6 +149,7 @@ body {
 
   .card-details {
     width: 100%;
+    height: auto;
     border-top-right-radius: 0;
     border-bottom-left-radius: 1rem;
     padding: 2.4rem 2.4rem;
