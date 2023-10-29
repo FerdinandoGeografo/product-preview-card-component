@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/FerdinandoGeografo/product-preview-card-component](https://github.com/FerdinandoGeografo/product-preview-card-component)
 - Live Site URL: [https://product-preview-fg.netlify.app/](https://product-preview-fg.netlify.app/)
 
 ## My process
